@@ -13,7 +13,7 @@
 
 - name: baidu
   url: https://www.baidu.com/
-  src: ｗｗｗ
+  src: www
 
 - name: 知乎
   url: https://www.zhihu.com/
