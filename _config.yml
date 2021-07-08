@@ -131,8 +131,8 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: txwfj
-    repo: txwfj.github.io
+    owner: ng-fukgin
+    repo: ng-fukgin.github.io
     oauth:
         client_id: 1c480f4b7b13d2b01d74
         client_secret: 7892f343f6fe8ba2f66d5a3b67f14cf410ec7a52
