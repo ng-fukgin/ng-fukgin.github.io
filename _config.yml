@@ -138,8 +138,8 @@ gitment:
         client_secret: 7892f343f6fe8ba2f66d5a3b67f14cf410ec7a52
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ng-fukgin
-    repo: ng-fukgin.github.io
+    owner:ng-fukgin
+    repo: gittalk
     clientID: c0d10a4ae5158d63c200
     clientSecret: 8daba2106ad5442bf919dd823523122b291ea73b	
 # 在使用其它评论组件时可点击显示 Disqus
