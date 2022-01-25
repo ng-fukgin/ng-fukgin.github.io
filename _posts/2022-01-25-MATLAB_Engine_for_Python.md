@@ -13,7 +13,7 @@ keywords: pythno,matlab
 ## 验证您的配置
 在安装之前，确认您的 Python 和 MATLAB 配置。
 
-* 检查您的系统是否具有受支持的 Python 版本和 MATLAB R2014b 或更新版本。有关详细信息，请参阅 [MATLAB 产品（按版本）兼容的 Python 版本](./python-compatibility.pdf)。
+* 检查您的系统是否具有受支持的 Python 版本和 MATLAB R2014b 或更新版本。有关详细信息，请参阅 [MATLAB 产品（按版本）兼容的 Python 版本](/file/MATLAB_Engine_for_Python/python-compatibility.pdf)。
 
 * 要检查您的系统上是否已安装 Python，请在操作系统提示符下运行 Python。
 
