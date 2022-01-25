@@ -1,3 +1,13 @@
+---
+layout: post
+title: python调用matlab API
+categories: 教程
+description: python调用matlab API的配置过程及调用示例
+keywords: pythno,matlab
+---
+
+
+
 # 安装用于 Python 的 MATLAB 引擎 API
 以下的一大段话基本上都是抄matlab官网的描述，然后作一些修改，要看原文请点击[这里](https://ww2.mathworks.cn/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 ## 验证您的配置
