@@ -78,7 +78,7 @@ python setup.py install --prefix="/local/work/matlab19bPy36"
   <tr>
     <td>
     <a href="https://ww2.mathworks.cn/help/matlab/apiref/matlab.engine.start_matlab.html">matlab.engine.start_matlab</a></td>
-    <td>Start MATLAB Engine for Python|</td>
+    <td>Start MATLAB Engine for Python</td>
   </tr>
 <tr>
     <td>
