@@ -48,7 +48,6 @@ cd "c:\Program Files\MATLAB\R2019a\extern\engines\python"
 python setup.py install --prefix="c:\work\matlab19aPy36"
 ```
 * 将 R2019b 包安装在 matlab19bPy36 子文件夹中：
-
 ```
 cd "c:\Program Files\MATLAB\R2019b\extern\engines\python" 
 python setup.py install --prefix="c:\work\matlab19bPy36"
