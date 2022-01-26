@@ -2,8 +2,14 @@
 layout: post
 title: 利用github创建自己的博客-简易
 categories: 教程
-description: 利用github创建个人博客
-keywords: github,blog,博客
+subtitle: "利用github创建个人博客"
+author: "WUFUJIAN"
+header-img: "img/post-bg-farewell-flash.jpg"
+header-mask: 0.2
+tags:
+  - github
+  - blog
+  - 博客
 ---
 
 >一个人至少拥有一个梦想，有一个理由去坚强。心若没有栖息的地方，到哪里都是在流浪。
