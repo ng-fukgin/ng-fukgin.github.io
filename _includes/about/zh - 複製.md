@@ -8,9 +8,12 @@ Hello，我是伍福建，毕业于[中大南方]](https://www.nfu.edu.cn/)，�
 
 ##### 已发表论文
 
-[Daily Rainfall Data Construction and Application to Weather Prediction][1]
+[Daily Rainfall Data Construction and Application to Weather Prediction][1] 
+
 [Analysis of collective action propagation with multiple recurrences][2]
+
 [Movie box office prediction based on ensemble learning][3]
+
 [Prediction of Daily Precipitation Based on Deep Learning and Broad Learning Techniques][4]
 
 
