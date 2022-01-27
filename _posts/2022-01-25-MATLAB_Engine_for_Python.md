@@ -4,7 +4,7 @@ title: python调用matlab API
 categories: 教程
 subtitle: "python调用matlab API的配置过程及调用示例"
 author: "WUFUJIAN"
-header-img: "img/post-bg-farewell-flash.jpg"
+header-img: "img/Matlab_Logo.png"
 header-mask: 0.2
 tags:
   - pythno
