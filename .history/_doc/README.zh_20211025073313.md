@@ -1,6 +1,6 @@
 # Hux blog 模板
 
-### [我的博客在这里 &rarr;](https://ng-fukgin.github.io/)
+### [我的博客在这里 &rarr;](http://huxpro.github.io)
 
 
 ### 关于收到"Page Build Warning"的email
@@ -21,13 +21,13 @@
 
 ## 关于模板(beta)
 
-我的博客仓库——`ng-fukgin.github.io`，是经常修改的，而且还会有人乱提交代码，因此给大家做了一个稳定版的模板。大家可以直接fork模板——`huxblog-boilerplate`,要改的地方我都说明了。或者可以直接下载zip到本地自己去修改。
+我的博客仓库——`huxpro.github.io`，是经常修改的，而且还会有人乱提交代码，因此给大家做了一个稳定版的模板。大家可以直接fork模板——`huxblog-boilerplate`,要改的地方我都说明了。或者可以直接下载zip到本地自己去修改。
 
 ```
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 ```
 
-
+**[在这里预览模板 &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
 ## 各版本特性
 
