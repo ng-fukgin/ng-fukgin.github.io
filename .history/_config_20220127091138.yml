@@ -1,5 +1,5 @@
 # Site settings
-title: Wufujian Blog
+title: Hux Blog
 SEOTitle: 伍福建的博客 | Ng-Fukgin Blog
 header-img: img/home-bg.jpg
 email: wfj.0000@gmail.com
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     肆岁小朋友
-zhihu_username:     wfj
-github_username:    ng-fukgin
-#twitter_username:   huxpro
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
