@@ -3,13 +3,10 @@ Hello, I am Wu Fujian, graduated from [Nanfang College.Guangzhou](https://www.nf
 After graduation, he worked as a software engineer in a technology company in Hong Kong, China. His main work was engineering modeling, data analysis and modeling. During my work, I built a **solar power generation forecast system**, which can more accurately predict the solar power generation in a certain place; I also built a food ordering system, which can clearly understand customers through dialogue with customers ordering needs.
 
 ##### Published papers
-[Daily Rainfall Data Construction and Application to Weather Prediction][1]
-
-[Analysis of collective action propagation with multiple recurrences][2]
-
-[Movie box office prediction based on ensemble learning][3]
-
-[Prediction of Daily Precipitation Based on Deep Learning and Broad Learning Techniques][4]
+- [Daily Rainfall Data Construction and Application to Weather Prediction][1]
+- [Analysis of collective action propagation with multiple recurrences][2]
+- [Movie box office prediction based on ensemble learning][3]
+- [Prediction of Daily Precipitation Based on Deep Learning and Broad Learning Techniques][4]
 
 
 [1]: https://ieeexplore.ieee.org/abstract/document/8702124
