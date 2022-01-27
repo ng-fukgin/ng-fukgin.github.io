@@ -2,13 +2,6 @@
 layout: post
 title: python调用matlab API
 categories: 教程
-description: python调用matlab API的配置过程及调用示例
-keywords: pythno,matlab
----
----
-layout: post
-title: python调用matlab API
-categories: 教程
 subtitle: "python调用matlab API的配置过程及调用示例"
 author: "WUFUJIAN"
 header-img: "img/post-bg-farewell-flash.jpg"
@@ -16,6 +9,7 @@ header-mask: 0.2
 tags:
   - pythno
   - matlab
+---
 
 
 # 安装用于 Python 的 MATLAB 引擎 API
