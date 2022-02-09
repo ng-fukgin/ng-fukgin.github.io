@@ -68,22 +68,22 @@
     </a>
   </li>
   {% endif %}
-  {% if site.address_l %}
-  <li>
-    <a target="_blank" href="https://www.google.com.hk/maps/dir//{{ site.address_l }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
   {% if site.gitee_username %}
   <li>
     <a target="_blank" href="https://gitee.com/{{ site.gitee_username }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa  fa-stack-1x fa-inverse">gitee</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.address_l %}
+  <li>
+    <a target="_blank" href="https://www.google.com.hk/maps/dir//{{ site.address_l }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
