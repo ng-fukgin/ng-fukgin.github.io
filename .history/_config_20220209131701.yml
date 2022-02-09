@@ -13,10 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     u/7492756401
-#zhihu_username:     wfj-52
+weibo_username:     u/7492756401
+zhihu_username:     wfj-52
 github_username:    ng-fukgin
-gitee_username:    ng-fukgin
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
