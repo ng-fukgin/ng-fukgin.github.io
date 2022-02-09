@@ -7,7 +7,7 @@ author: "WUFUJIAN"
 header-img: "img/Matlab_Logo.png"
 header-mask: 0.2
 tags:
-  - pythno
+  - python
   - matlab
 ---
 
