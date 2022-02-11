@@ -15,11 +15,11 @@
   url: tel:+852-67412570
   src: life
 
-- name: baidu
-  url: https://www.baidu.com/
+- name: 香港科学园
+  url: https://www.hkstp.org/zh-hk/
   src: www
 
-- name: 知乎
-  url: https://www.zhihu.com/
+- name: 香港身份证预约
+  url: https://www.gov.hk/tc/apps/immdicbooking2.htm
   src: www
 
