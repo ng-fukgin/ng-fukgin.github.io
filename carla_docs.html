@@ -1,4 +1,24 @@
 ---
-title: carla 学习笔记
+title: 一些文档
 layout: default
+description: "相遇不易，彼此珍惜"
+header-img: "img/tag-bg.jpg"
 ---
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			<!-- Tags (as filter) -->
+			<div id='tag_cloud' class="tags tags-sup js-tags">
+				<ul>
+                    {% for link in site.data.docs %}
+                      <li><a href="{{ link.url }}" target="_blank">{{ link.sitename}}</a></li>
+                    {% endfor %}
+                    </ul> 
+			</div>
+
+           
+		</div>
+	</div>
+</div>
