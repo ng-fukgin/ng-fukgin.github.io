@@ -5,6 +5,16 @@ description: "相遇不易，彼此珍惜"
 header-img: "img/tag-bg.jpg"
 ---
 
+
+
+<!-- 
+Credits: this page shamelessly borrowed a lot from:
+https://github.com/kitian616/jekyll-TeXt-theme
+-->
+<!-- Page Header -->
+{% include intro-header.html type='page' short=true %}
+
+
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
@@ -26,10 +36,10 @@ header-img: "img/tag-bg.jpg"
 
 
 <div style="height:120px;margin-top:20px;">
+	{% for link in site.data.docs %}
 	<div class="alert alert-danger pull-left" style="width:22%;margin-right:10px;">
-		{% for link in site.data.docs %}
 		<a href="{{link.url}}" target="_blank" class="alert-link" title={{link.sitename}}><span
 				class="glyphicon glyphicon-user"></span>{{link.sitename}}</a>
-		{% endfor %}
 	</div>
+	{% endfor %}
 </div>
