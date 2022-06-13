@@ -12,13 +12,22 @@ header-img: "img/tag-bg.jpg"
 			<!-- Tags (as filter) -->
 			<div id='tag_cloud' class="tags tags-sup js-tags">
 				<ul>
-                    {% for link in site.data.docs %}
-                      <li><a href="{{link.url}}" target="_blank">{{link.sitename}}</a></li>
-                    {% endfor %}
-                </ul> 
+					{% for link in site.data.docs %}
+					<li><a href="{{link.url}}" target="_blank">{{link.sitename}}</a></li>
+					{% endfor %}
+				</ul>
 			</div>
 
-           
+
 		</div>
+	</div>
+</div>
+
+
+
+<div style="height:120px;margin-top:20px;">
+	<div class="alert alert-danger pull-left" style="width:22%;margin-right:10px;">
+		<a href="{{link.url}}" target="_blank" class="alert-link" title={{link.sitename}}><span
+				class="glyphicon glyphicon-user"></span>{{link.sitename}}</a>
 	</div>
 </div>
