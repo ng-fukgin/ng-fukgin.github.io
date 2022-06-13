@@ -27,7 +27,9 @@ header-img: "img/tag-bg.jpg"
 
 <div style="height:120px;margin-top:20px;">
 	<div class="alert alert-danger pull-left" style="width:22%;margin-right:10px;">
+		{% for link in site.data.docs %}
 		<a href="{{link.url}}" target="_blank" class="alert-link" title={{link.sitename}}><span
 				class="glyphicon glyphicon-user"></span>{{link.sitename}}</a>
+		{% endfor %}
 	</div>
 </div>
