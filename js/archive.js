@@ -26,7 +26,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
   }
 
   var setUrlQuery = (function() {
-    var baseUrl =  window.location.href.split('?')[0];
+    var baseUrl =  window.location.href.split('?')[0]+'/index1';
     return function(query) {
       if (typeof query === 'string') {
         window.history.replaceState(null, '', baseUrl + query);
