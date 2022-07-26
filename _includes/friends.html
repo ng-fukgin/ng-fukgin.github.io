@@ -1,9 +1,14 @@
+
 {% if site.friends %}
 <hr>
 <h5>FRIENDS</h5>
 <ul class="list-inline">
   {% for friend in site.friends %}
   <li><a href="{{friend.href}}">{{friend.title}}</a></li>
+  {% endfor %}
+  {% for post in paginator.posts %}
+  <li><a href="">{{post.url}}</a></li>
+  <li><a href="">{{prepend: site.baseurl}}</a></li>
   {% endfor %}
 </ul>
 {% endif %}
