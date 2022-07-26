@@ -6,7 +6,7 @@ email: wfj.0000@gmail.com
 #description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keywords: "伍福建, wufujian, Fujian,ng-fukgin"
 url: "https://ng-fukgin.github.io/index1"            # your host, for absolute URL
-baseurl: "index1"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
