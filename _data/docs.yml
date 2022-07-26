@@ -1,9 +1,9 @@
 - sitename: carla 学习笔记
   name: ng-fukgin
-  url: https://ng-fukgin.github.io/carla-docs/#/
+  url: /carla-docs/#/
 
-- sitename: ROS理论与实践文档（已转为私有）
+- sitename: ROS理论与实践文档
   name: ng-fukgin
-  url: https://ng-fukgin.github.io/ROSTutorials/#/
+  url: https://ng-fukgin.gitee.io/github-rostutorials/#/
 
 
