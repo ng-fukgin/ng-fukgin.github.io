@@ -2,11 +2,10 @@
 layout: page
 description: "「人生，缘起缘落，缘生缘灭，缘聚缘散。」"
 ---
-
+{% for post in paginator.posts %}
 <a href="{{ post.url | prepend: site.baseurl }}">12356</a>
 <a href="{{ post.url | prepend: site.baseurl }}">"{{ post.url | prepend: site.baseurl }}"</a>
-<a href="{{ post.url | prepend: site.baseurl }}">{{ post.url | prepend: site.baseurl }}</a>
-{% for post in paginator.posts %}
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.titlel }}</a>
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
