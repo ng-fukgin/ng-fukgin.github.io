@@ -1,3 +1,5 @@
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BXJjbzVFY2p9aGRsaStmamg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_22.png"/></a>
+
 Hello, I am Wu Fujian, graduated from [Nanfang College.Guangzhou](https://www.nfu.edu.cn/), with a solid foundation in python programming, as well as strong matlab programming ability, familiar with the use of linux system.
 
 After graduation, he worked as a software engineer in a technology company in Hong Kong, China. His main work was engineering modeling, data analysis and modeling. During my work, I built a **solar power generation forecast system**, which can more accurately predict the solar power generation in a certain place; I also built a food ordering system, which can clearly understand customers through dialogue with customers ordering needs.
