@@ -1,3 +1,6 @@
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BXJjbzVFY2p9aGRsaStmamg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_22.png"/></a>
+
+
 Hello，我是伍福建，毕业于[中大南方](https://www.nfu.edu.cn/)，拥有扎实的python编程基础，以及较强的matlab编程能力，熟悉使用linux系统。
 
 毕业后前往**中国香港**的一家科技公司担任软件工程师，主要的工作是进行工程建模，数据分析与建模。工作期间构建了一个**太阳能发电量的预测系统**，能比较准确的预测出某个地方的太阳能发电量；还做了一个点餐系统，能够通过与客户对话，清晰地明白客户的点餐需求。
